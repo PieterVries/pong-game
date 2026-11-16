@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:GroupBox style="justify-content: space-evenly; align-items: stretch; align-content: stretch; align-self: auto; flex-direction: row;">
+        <ui:Label text="0" name="left" style="width: 146px; align-content: auto; -unity-text-align: middle-center; font-size: 50px; color: rgb(255, 255, 255);"/>
+        <ui:Label text="0" name="right" style="width: 165px; -unity-text-align: middle-center; align-items: auto; align-self: auto; align-content: auto; white-space: pre; font-size: 50px; -unity-text-outline-color: rgb(255, 255, 255); color: rgb(255, 255, 255);"/>
+    </ui:GroupBox>
+</ui:UXML>
